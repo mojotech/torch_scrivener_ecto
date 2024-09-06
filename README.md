@@ -1,4 +1,12 @@
-# Scrivener.Ecto
+# Torch Scrivener.Ecto
+
+This fork of the [original Scrivener.Ecto project](https://github.com/drewolson/scrivener_ecto) is being minimally
+maintained to keep a working version of the [Torch](https//github.com/mojotech/torch) project functional for current
+and future versions of Ecto.  Feel free to submit any Pull Requests to this repository that you might have previously
+submitted directly to the original `scrivener_ecto` repository as that repository is not in active maintenance mode.
+
+This forked version can be found on hex.pm under the package name
+[torch_scrivener_ecto](https://hex.pm/packages/torch_scrivener_ecto).
 
 [![Build
 Status](https://github.com/drewolson/scrivener_ecto/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/drewolson/scrivener_ecto/actions/workflows/test.yml)
