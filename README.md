@@ -1,7 +1,7 @@
 # Torch Scrivener.Ecto
 
 This fork of the [original Scrivener.Ecto project](https://github.com/drewolson/scrivener_ecto) is being minimally
-maintained to keep a working version of the [Torch](https//github.com/mojotech/torch) project functional for current
+maintained to keep a working version of the [Torch](https://github.com/mojotech/torch) project functional for current
 and future versions of Ecto.  Feel free to submit any Pull Requests to this repository that you might have previously
 submitted directly to the original `scrivener_ecto` repository as that repository is not in active maintenance mode.
 
