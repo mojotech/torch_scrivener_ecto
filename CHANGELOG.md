@@ -1,6 +1,15 @@
 # Changelog
 
-## 2.8.0-dev
+## 3.0.0
+
+* Updated many dependencies and has support for OTP 26
+* Supports the same OTP/Elixir test matrix as Torch
+  - Elixir 1.14-1.16
+  - OTP 23.x-26.x
+
+## 2.8.0
+
+* Support for Ecto 3.12.0+
 
 ## 2.7.0
 
