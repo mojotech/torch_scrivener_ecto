@@ -3,8 +3,8 @@ defmodule Scrivener.Ecto.Mixfile do
 
   def project do
     [
-      app: :scrivener_ecto,
-      version: "3.0.0",
+      app: :torch_scrivener_ecto,
+      version: "3.0.1",
       elixir: "~> 1.14",
       elixirc_paths: elixirc_paths(Mix.env()),
       package: package(),
@@ -56,7 +56,7 @@ defmodule Scrivener.Ecto.Mixfile do
       name: "torch_scrivener_ecto",
       maintainers: ["MojoTech, LLC"],
       licenses: ["MIT"],
-      links: %{"github" => "https://github.com/mojotech/scrivener_ecto"},
+      links: %{"github" => "https://github.com/mojotech/torch_scrivener_ecto"},
       files: [
         "lib/scrivener",
         "mix.exs",
